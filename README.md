@@ -1,9 +1,10 @@
 ## Número de passageiros de ônibus da cidade de São Paulo ##
 
-A Secretaria Municipal de Mobilidade e Trânsito disponibiliza os dados do número de passagereiros transportados diariamente pelos ônibus, por meio de planilha de Excel
+A Secretaria Municipal de Mobilidade e Trânsito disponibiliza os dados do número de passagereiros transportados diariamente pelos ônibus, por meio de planilhas de Excel.
+As planilhas são disponibilizadas nessa página:
 https://www.prefeitura.sp.gov.br/cidade/secretarias/mobilidade/institucional/sptrans/acesso_a_informacao/agenda/index.php?p=306932
 
-Para acessar os dados foi feita uma raspagem. Levando em consideração três questões:
+Para acessar os dados foi feita uma raspagem, levando em consideração três questões:
 
 **Um link para cada dia**
 Os dados são disponibilizados em links específicos (um link para cada planilha para cada dia do ano). Portanto, somente para o ano de 2019, temos 365 links. 
