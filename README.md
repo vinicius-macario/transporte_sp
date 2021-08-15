@@ -9,7 +9,7 @@ Para consolidar os dados disponibilizados, temos três questões
 
 Os dados são disponibilizados em links específicos (um link para cada planilha para cada dia do ano). Portanto, somente para o ano de 2019, temos 365 links - um cada dia do ano. 
 
-**Resído de macro**
+**Resíduo de macro**
 
 As planilhas parecem ter sido gerados por meio de uma macro, o que gera um tipo de _sugeira/resíduo_ dessa macro. Isso dificultou um acesso mais simples via urblib, por exemplo. A única solução encontrada voi baixar o arquivo, abrir e salvar sem a macro.
 
