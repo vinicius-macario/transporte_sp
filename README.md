@@ -14,4 +14,11 @@ Considerar três questões:
 
 **Alteração nas colunas**. O formato das planilhas se altera ao longo do tempo. No caso desse código, feito para o ano de 2019 e 2020, algumas colunas foram suprimidas em um determinado momento de 2019. Por esse motivo, foram selecionadas apenas as seguintes colunas: data, tipo, area, empresa, linha, total de passageiros. Em 2019, por exemplo, as seguintes colunas deixaram se ser disponibilizadas _Passageiros Pagtes Em Dinheiro, Passageiros Pagtes Bu Vt, Passageiros Pgts Bu Vt Mensal, Passageiros Pagtes Int M/Cptm_.
 
+### Comparando 2019 e 2020 ###
+
+No gráfico abaixo temos a soma acumulada de 7 dias de 2019 e 2020.
+
+![image](https://user-images.githubusercontent.com/64567327/129641938-2049846b-1571-421c-9575-1a18d8935b9b.png)
+
+
 
