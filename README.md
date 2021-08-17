@@ -16,9 +16,11 @@ Considerar três questões:
 
 ### Comparando 2019 e 2020 ###
 
-No gráfico abaixo temos a soma acumulada de 7 dias de 2019 e 2020.
+No gráfico abaixo temos a soma acumulada de 7 dias, para os anos de 2019, 2020, 2021 (16/ago).
 
-![image](https://user-images.githubusercontent.com/64567327/129641938-2049846b-1571-421c-9575-1a18d8935b9b.png)
+![image](https://user-images.githubusercontent.com/64567327/129646030-d9428e91-3d69-4b33-b530-b3025b41eae9.png)
+
+
 
 
 
